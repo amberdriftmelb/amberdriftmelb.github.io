@@ -1,4 +1,4 @@
-This favicon was generated using the following font:
+This favicon2 was generated using the following font:
 
 - Font Title: Langar
 - Font Author: Copyright 2016 The Langar Project Authors (https://github.com/typeland/Langar)
